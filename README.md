@@ -75,6 +75,6 @@ To build, run `./gradlew build`, jar will be in `build/libs`:
 1) `./gradlew build` or `gradlew build` or `gradlew.bat build` or `./gradlew.bat build`
 2) built jars will be in main project folder `/build/libs` (don't use the one with `-sources` at the end!)
 
-## Why are you making this public
+## Why are you forking this client
 
-Because I can. I used to have quite exclusive haccs but now everyone seems to have them. I want to share the way I did things.
+Because i can, and i want to fix the cape issue without needing someone to do it for me.
